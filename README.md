@@ -86,9 +86,9 @@ conda activate HealthAIoT
 
 ---
 
-### Step 2 — Set Up GCP Worker VMs
+### Step 2 — Set Up AWS Worker VMs
 
-#### 2a. Create VMs on GCP
+#### 2a. Create VMs on AWS
 
 Create **two VM instances** with the following specs:
 - **vCPU**: 2 (1 shared core)
