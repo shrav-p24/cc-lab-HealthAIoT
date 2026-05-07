@@ -1,0 +1,2802 @@
+[
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.0009298324584960938,
+        "total_execution_time": 1.30637788772583,
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.00999760627746582,
+        "total_execution_time": 1.3934016227722168,
+        "latency": 4.9114227294921875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.0035898685455322266,
+        "total_execution_time": 1.4071383476257324,
+        "latency": 4.1961669921875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.008705377578735352,
+        "total_execution_time": 1.4016213417053223,
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.0074999332427978516,
+        "total_execution_time": 1.410362958908081,
+        "latency": 3.981590270996094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.007185459136962891,
+        "total_execution_time": 1.4049952030181885,
+        "latency": 4.744529724121094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.00724029541015625,
+        "total_execution_time": 1.4180691242218018,
+        "latency": 7.104873657226562e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.008419275283813477,
+        "total_execution_time": 1.4094195365905762,
+        "latency": 4.458427429199219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.005320310592651367,
+        "total_execution_time": 1.413489580154419,
+        "latency": 5.340576171875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.01248311996459961,
+        "total_execution_time": 1.4107539653778076,
+        "latency": 5.269050598144531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.011173009872436523,
+        "total_execution_time": 1.4090549945831299,
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.00804448127746582,
+        "total_execution_time": 1.4237146377563477,
+        "latency": 0.00039505958557128906
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.008601903915405273,
+        "total_execution_time": 1.4111032485961914,
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.012017011642456055,
+        "total_execution_time": 1.406562089920044,
+        "latency": 4.673004150390625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.009735584259033203,
+        "total_execution_time": 1.4198524951934814,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.005484342575073242,
+        "total_execution_time": 1.4221084117889404,
+        "latency": 4.982948303222656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.00966191291809082,
+        "total_execution_time": 1.417691946029663,
+        "latency": 5.316734313964844e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.007062435150146484,
+        "total_execution_time": 1.4111623764038086,
+        "latency": 5.626678466796875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.0037353038787841797,
+        "total_execution_time": 1.6204643249511719,
+        "latency": 7.843971252441406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:12",
+        "model_execution_time": 0.0008947849273681641,
+        "total_execution_time": 2.1718266010284424,
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.0011489391326904297,
+        "total_execution_time": 1.2765283584594727,
+        "latency": 5.555152893066406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.010739326477050781,
+        "total_execution_time": 1.2849814891815186,
+        "latency": 5.555152893066406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.00726008415222168,
+        "total_execution_time": 1.305210828781128,
+        "latency": 5.602836608886719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.0046346187591552734,
+        "total_execution_time": 1.293102741241455,
+        "latency": 4.506111145019531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.0016431808471679688,
+        "total_execution_time": 1.2997643947601318,
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.0012600421905517578,
+        "total_execution_time": 1.3051791191101074,
+        "latency": 6.866455078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.0036067962646484375,
+        "total_execution_time": 1.3344502449035645,
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.006993293762207031,
+        "total_execution_time": 1.3420889377593994,
+        "latency": 5.793571472167969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.003064870834350586,
+        "total_execution_time": 1.3252012729644775,
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.008842229843139648,
+        "total_execution_time": 1.3290786743164062,
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.0035238265991210938,
+        "total_execution_time": 1.3324146270751953,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.0045795440673828125,
+        "total_execution_time": 1.3929107189178467,
+        "latency": 5.0067901611328125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.001413106918334961,
+        "total_execution_time": 1.3985440731048584,
+        "latency": 4.601478576660156e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.004335880279541016,
+        "total_execution_time": 1.3906149864196777,
+        "latency": 6.580352783203125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:14",
+        "model_execution_time": 0.004731893539428711,
+        "total_execution_time": 1.3889079093933105,
+        "latency": 5.507469177246094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:15",
+        "model_execution_time": 0.0009152889251708984,
+        "total_execution_time": 2.3042163848876953,
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:15",
+        "model_execution_time": 0.0006763935089111328,
+        "total_execution_time": 2.319852828979492,
+        "latency": 6.222724914550781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:15",
+        "model_execution_time": 0.0006148815155029297,
+        "total_execution_time": 2.311218500137329,
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:15",
+        "model_execution_time": 0.0007405281066894531,
+        "total_execution_time": 2.33444881439209,
+        "latency": 0.00024390220642089844
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:15",
+        "model_execution_time": 0.0007834434509277344,
+        "total_execution_time": 2.3890202045440674,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.0008840560913085938,
+        "total_execution_time": 1.2614750862121582,
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.001285552978515625,
+        "total_execution_time": 1.2856886386871338,
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.0007555484771728516,
+        "total_execution_time": 1.286165714263916,
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.0012335777282714844,
+        "total_execution_time": 1.2899484634399414,
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.003921985626220703,
+        "total_execution_time": 1.3055319786071777,
+        "latency": 7.43865966796875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.007199764251708984,
+        "total_execution_time": 1.301414966583252,
+        "latency": 3.814697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.0006895065307617188,
+        "total_execution_time": 1.296929121017456,
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.0009548664093017578,
+        "total_execution_time": 1.2934775352478027,
+        "latency": 5.2928924560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.005641460418701172,
+        "total_execution_time": 1.304171085357666,
+        "latency": 4.5299530029296875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.006671905517578125,
+        "total_execution_time": 1.3057551383972168,
+        "latency": 3.790855407714844e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.007804155349731445,
+        "total_execution_time": 1.3032615184783936,
+        "latency": 5.054473876953125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.004266500473022461,
+        "total_execution_time": 1.3067631721496582,
+        "latency": 4.029273986816406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.008575677871704102,
+        "total_execution_time": 1.3111660480499268,
+        "latency": 3.600120544433594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.005297183990478516,
+        "total_execution_time": 1.3016598224639893,
+        "latency": 3.910064697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.008114814758300781,
+        "total_execution_time": 1.3109874725341797,
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.004607200622558594,
+        "total_execution_time": 1.3059172630310059,
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.006796121597290039,
+        "total_execution_time": 1.3239197731018066,
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.004187345504760742,
+        "total_execution_time": 1.3235924243927002,
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.008167028427124023,
+        "total_execution_time": 1.3280107975006104,
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:16",
+        "model_execution_time": 0.002642393112182617,
+        "total_execution_time": 1.3454253673553467,
+        "latency": 0.0009975433349609375
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:17",
+        "model_execution_time": 0.0012402534484863281,
+        "total_execution_time": 1.2406795024871826,
+        "latency": 6.914138793945312e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.0022056102752685547,
+        "total_execution_time": 1.3156638145446777,
+        "latency": 0.0004661083221435547
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.0009224414825439453,
+        "total_execution_time": 1.3113856315612793,
+        "latency": 4.3392181396484375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.0005533695220947266,
+        "total_execution_time": 1.3102006912231445,
+        "latency": 6.175041198730469e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.000591278076171875,
+        "total_execution_time": 1.3018341064453125,
+        "latency": 7.653236389160156e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.002034902572631836,
+        "total_execution_time": 1.3228907585144043,
+        "latency": 0.0006723403930664062
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.001939535140991211,
+        "total_execution_time": 1.318969488143921,
+        "latency": 4.8160552978515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.0010609626770019531,
+        "total_execution_time": 1.3282485008239746,
+        "latency": 4.7206878662109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.0018651485443115234,
+        "total_execution_time": 1.322129487991333,
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.002058267593383789,
+        "total_execution_time": 1.339219331741333,
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.0008113384246826172,
+        "total_execution_time": 1.3339743614196777,
+        "latency": 7.390975952148438e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.0006413459777832031,
+        "total_execution_time": 1.3406600952148438,
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.0014200210571289062,
+        "total_execution_time": 1.3480172157287598,
+        "latency": 5.817413330078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.005335092544555664,
+        "total_execution_time": 1.351876974105835,
+        "latency": 4.38690185546875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.03575325012207031,
+        "total_execution_time": 1.3914263248443604,
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.038155317306518555,
+        "total_execution_time": 1.3893194198608398,
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.03890204429626465,
+        "total_execution_time": 1.4015381336212158,
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.03547954559326172,
+        "total_execution_time": 1.4228382110595703,
+        "latency": 4.553794860839844e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.03575921058654785,
+        "total_execution_time": 1.4258148670196533,
+        "latency": 6.008148193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:18",
+        "model_execution_time": 0.03406548500061035,
+        "total_execution_time": 1.4408574104309082,
+        "latency": 4.506111145019531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.005130290985107422,
+        "total_execution_time": 1.3859038352966309,
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.004566669464111328,
+        "total_execution_time": 1.3854453563690186,
+        "latency": 4.792213439941406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0045909881591796875,
+        "total_execution_time": 1.3758423328399658,
+        "latency": 3.600120544433594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.004182100296020508,
+        "total_execution_time": 1.3854548931121826,
+        "latency": 7.486343383789062e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0036706924438476562,
+        "total_execution_time": 1.3956193923950195,
+        "latency": 5.4836273193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0033364295959472656,
+        "total_execution_time": 1.393904209136963,
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.001241445541381836,
+        "total_execution_time": 1.3883535861968994,
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.001546621322631836,
+        "total_execution_time": 1.3929011821746826,
+        "latency": 5.1021575927734375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0013000965118408203,
+        "total_execution_time": 1.3988628387451172,
+        "latency": 4.744529724121094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0019330978393554688,
+        "total_execution_time": 1.4033091068267822,
+        "latency": 5.173683166503906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.001524209976196289,
+        "total_execution_time": 1.39503812789917,
+        "latency": 3.8623809814453125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0025665760040283203,
+        "total_execution_time": 1.388789415359497,
+        "latency": 5.14984130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0006210803985595703,
+        "total_execution_time": 1.4073197841644287,
+        "latency": 0.0013794898986816406
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.001373291015625,
+        "total_execution_time": 1.3986914157867432,
+        "latency": 4.00543212890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0020546913146972656,
+        "total_execution_time": 1.4057528972625732,
+        "latency": 4.9591064453125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0029511451721191406,
+        "total_execution_time": 1.3911943435668945,
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0013730525970458984,
+        "total_execution_time": 1.395050287246704,
+        "latency": 5.0067901611328125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.0017077922821044922,
+        "total_execution_time": 1.399411916732788,
+        "latency": 6.461143493652344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.003871917724609375,
+        "total_execution_time": 1.4120709896087646,
+        "latency": 0.0018367767333984375
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:19",
+        "model_execution_time": 0.003369569778442383,
+        "total_execution_time": 1.3965699672698975,
+        "latency": 5.340576171875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:20",
+        "model_execution_time": 0.0012984275817871094,
+        "total_execution_time": 1.3253347873687744,
+        "latency": 4.1961669921875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:20",
+        "model_execution_time": 0.002578258514404297,
+        "total_execution_time": 1.3319728374481201,
+        "latency": 5.125999450683594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:20",
+        "model_execution_time": 0.0016207695007324219,
+        "total_execution_time": 1.344839096069336,
+        "latency": 6.4849853515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:20",
+        "model_execution_time": 0.002706766128540039,
+        "total_execution_time": 1.3517420291900635,
+        "latency": 4.863739013671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.007476329803466797,
+        "total_execution_time": 1.499861717224121,
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.0071141719818115234,
+        "total_execution_time": 1.4880127906799316,
+        "latency": 4.76837158203125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.006829500198364258,
+        "total_execution_time": 1.5084705352783203,
+        "latency": 0.00016164779663085938
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.00584101676940918,
+        "total_execution_time": 1.4870262145996094,
+        "latency": 4.6253204345703125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.0033178329467773438,
+        "total_execution_time": 1.5106308460235596,
+        "latency": 8.273124694824219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.004601478576660156,
+        "total_execution_time": 1.5053801536560059,
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.009099483489990234,
+        "total_execution_time": 1.523015022277832,
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.01209712028503418,
+        "total_execution_time": 1.5397825241088867,
+        "latency": 5.4836273193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.005530357360839844,
+        "total_execution_time": 1.534205436706543,
+        "latency": 4.029273986816406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.004656076431274414,
+        "total_execution_time": 1.5474259853363037,
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.005821704864501953,
+        "total_execution_time": 1.545229434967041,
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.002572774887084961,
+        "total_execution_time": 1.5376391410827637,
+        "latency": 5.4836273193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.0033915042877197266,
+        "total_execution_time": 1.528913974761963,
+        "latency": 5.5789947509765625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.005606889724731445,
+        "total_execution_time": 1.5291645526885986,
+        "latency": 4.887580871582031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.009956121444702148,
+        "total_execution_time": 1.536046028137207,
+        "latency": 6.318092346191406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:21",
+        "model_execution_time": 0.0021436214447021484,
+        "total_execution_time": 1.5381677150726318,
+        "latency": 0.0001399517059326172
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0008933544158935547,
+        "total_execution_time": 1.297422170639038,
+        "latency": 0.0004425048828125
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.002124309539794922,
+        "total_execution_time": 1.3152246475219727,
+        "latency": 5.7697296142578125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0019659996032714844,
+        "total_execution_time": 1.3380014896392822,
+        "latency": 6.604194641113281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.003760814666748047,
+        "total_execution_time": 1.3702044486999512,
+        "latency": 8.392333984375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.008995294570922852,
+        "total_execution_time": 1.3893022537231445,
+        "latency": 5.650520324707031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.010326385498046875,
+        "total_execution_time": 1.36944580078125,
+        "latency": 5.936622619628906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.013351678848266602,
+        "total_execution_time": 1.3967907428741455,
+        "latency": 8.153915405273438e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.009140253067016602,
+        "total_execution_time": 1.3695623874664307,
+        "latency": 6.413459777832031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.008436203002929688,
+        "total_execution_time": 1.3839716911315918,
+        "latency": 6.723403930664062e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.009517908096313477,
+        "total_execution_time": 1.3830103874206543,
+        "latency": 6.389617919921875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0050470829010009766,
+        "total_execution_time": 1.3857371807098389,
+        "latency": 6.29425048828125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.007712602615356445,
+        "total_execution_time": 1.3694837093353271,
+        "latency": 7.772445678710938e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0051462650299072266,
+        "total_execution_time": 1.3984246253967285,
+        "latency": 9.34600830078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0013661384582519531,
+        "total_execution_time": 1.380352258682251,
+        "latency": 8.20159912109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0019860267639160156,
+        "total_execution_time": 1.4108541011810303,
+        "latency": 8.130073547363281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0027647018432617188,
+        "total_execution_time": 1.386725664138794,
+        "latency": 5.793571472167969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0016446113586425781,
+        "total_execution_time": 1.390550136566162,
+        "latency": 7.891654968261719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0005214214324951172,
+        "total_execution_time": 1.4158892631530762,
+        "latency": 8.749961853027344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.002138853073120117,
+        "total_execution_time": 1.4009020328521729,
+        "latency": 0.00011467933654785156
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:22",
+        "model_execution_time": 0.0013980865478515625,
+        "total_execution_time": 1.3956294059753418,
+        "latency": 5.745887756347656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0022287368774414062,
+        "total_execution_time": 1.2578744888305664,
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.00152587890625,
+        "total_execution_time": 1.2584092617034912,
+        "latency": 5.14984130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.002156496047973633,
+        "total_execution_time": 1.2727634906768799,
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0033910274505615234,
+        "total_execution_time": 1.2663049697875977,
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0020911693572998047,
+        "total_execution_time": 1.2648389339447021,
+        "latency": 4.100799560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.003864288330078125,
+        "total_execution_time": 1.28031587600708,
+        "latency": 4.5299530029296875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0018494129180908203,
+        "total_execution_time": 1.280585527420044,
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0005638599395751953,
+        "total_execution_time": 1.2940032482147217,
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0008871555328369141,
+        "total_execution_time": 1.2934093475341797,
+        "latency": 4.792213439941406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.003265380859375,
+        "total_execution_time": 1.2983551025390625,
+        "latency": 6.270408630371094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0005397796630859375,
+        "total_execution_time": 1.2906174659729004,
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0016448497772216797,
+        "total_execution_time": 1.293114185333252,
+        "latency": 4.76837158203125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0007870197296142578,
+        "total_execution_time": 1.3031668663024902,
+        "latency": 4.458427429199219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0013039112091064453,
+        "total_execution_time": 1.3476591110229492,
+        "latency": 5.173683166503906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0022215843200683594,
+        "total_execution_time": 1.3588590621948242,
+        "latency": 4.863739013671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0038604736328125,
+        "total_execution_time": 1.3910751342773438,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.003253459930419922,
+        "total_execution_time": 1.4040205478668213,
+        "latency": 8.96453857421875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.0030171871185302734,
+        "total_execution_time": 1.3867793083190918,
+        "latency": 4.1484832763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.006264448165893555,
+        "total_execution_time": 1.3956007957458496,
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:23",
+        "model_execution_time": 0.006129741668701172,
+        "total_execution_time": 1.402038812637329,
+        "latency": 4.673004150390625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.0009179115295410156,
+        "total_execution_time": 1.3019373416900635,
+        "latency": 6.198883056640625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.0011894702911376953,
+        "total_execution_time": 1.305450201034546,
+        "latency": 5.412101745605469e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.0025720596313476562,
+        "total_execution_time": 1.3101449012756348,
+        "latency": 5.602836608886719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.002120494842529297,
+        "total_execution_time": 1.304157018661499,
+        "latency": 7.081031799316406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.007422924041748047,
+        "total_execution_time": 1.3643853664398193,
+        "latency": 6.29425048828125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.004101276397705078,
+        "total_execution_time": 1.3796532154083252,
+        "latency": 4.029273986816406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.009255409240722656,
+        "total_execution_time": 1.3910009860992432,
+        "latency": 9.250640869140625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.0068359375,
+        "total_execution_time": 1.3878624439239502,
+        "latency": 3.743171691894531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.0075054168701171875,
+        "total_execution_time": 1.3797457218170166,
+        "latency": 7.152557373046875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.008356809616088867,
+        "total_execution_time": 1.3936405181884766,
+        "latency": 7.200241088867188e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.005779266357421875,
+        "total_execution_time": 1.3931963443756104,
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.008735895156860352,
+        "total_execution_time": 1.3951306343078613,
+        "latency": 5.269050598144531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.006527423858642578,
+        "total_execution_time": 1.3760175704956055,
+        "latency": 5.507469177246094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.008282899856567383,
+        "total_execution_time": 1.3784379959106445,
+        "latency": 5.602836608886719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.012624502182006836,
+        "total_execution_time": 1.3942880630493164,
+        "latency": 5.269050598144531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.007805347442626953,
+        "total_execution_time": 1.3944447040557861,
+        "latency": 6.413459777832031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.003261089324951172,
+        "total_execution_time": 1.3942837715148926,
+        "latency": 0.000102996826171875
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.011156320571899414,
+        "total_execution_time": 1.4094321727752686,
+        "latency": 0.0024085044860839844
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.008318424224853516,
+        "total_execution_time": 1.4127833843231201,
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:25",
+        "model_execution_time": 0.005550861358642578,
+        "total_execution_time": 1.3962712287902832,
+        "latency": 8.559226989746094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0015053749084472656,
+        "total_execution_time": 1.2544565200805664,
+        "latency": 0.00039505958557128906
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.008048295974731445,
+        "total_execution_time": 1.2704529762268066,
+        "latency": 4.100799560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0007495880126953125,
+        "total_execution_time": 1.2687461376190186,
+        "latency": 6.580352783203125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0006117820739746094,
+        "total_execution_time": 1.2791755199432373,
+        "latency": 5.698204040527344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0012776851654052734,
+        "total_execution_time": 1.2882132530212402,
+        "latency": 5.984306335449219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.005602598190307617,
+        "total_execution_time": 1.275214433670044,
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.002259969711303711,
+        "total_execution_time": 1.2746667861938477,
+        "latency": 6.413459777832031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.002284526824951172,
+        "total_execution_time": 1.286897897720337,
+        "latency": 4.6253204345703125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.00684666633605957,
+        "total_execution_time": 1.3068287372589111,
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.002815723419189453,
+        "total_execution_time": 1.3101122379302979,
+        "latency": 6.0558319091796875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0016493797302246094,
+        "total_execution_time": 1.2877717018127441,
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0028417110443115234,
+        "total_execution_time": 1.3012585639953613,
+        "latency": 4.7206878662109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0008380413055419922,
+        "total_execution_time": 1.2922217845916748,
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0005590915679931641,
+        "total_execution_time": 1.3016507625579834,
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.00048828125,
+        "total_execution_time": 1.3009908199310303,
+        "latency": 7.62939453125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0007843971252441406,
+        "total_execution_time": 1.3199479579925537,
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0005714893341064453,
+        "total_execution_time": 1.3183817863464355,
+        "latency": 5.221366882324219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0004684925079345703,
+        "total_execution_time": 1.3299634456634521,
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0010406970977783203,
+        "total_execution_time": 1.3894977569580078,
+        "latency": 4.100799560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:26",
+        "model_execution_time": 0.0008742809295654297,
+        "total_execution_time": 1.5319502353668213,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0015482902526855469,
+        "total_execution_time": 1.3045341968536377,
+        "latency": 4.649162292480469e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0008490085601806641,
+        "total_execution_time": 1.3250699043273926,
+        "latency": 0.0001823902130126953
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0314793586730957,
+        "total_execution_time": 1.3501331806182861,
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.002471923828125,
+        "total_execution_time": 1.3733916282653809,
+        "latency": 0.0011646747589111328
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0013518333435058594,
+        "total_execution_time": 1.372103214263916,
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0008153915405273438,
+        "total_execution_time": 1.3639626502990723,
+        "latency": 3.743171691894531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.006644010543823242,
+        "total_execution_time": 1.3678503036499023,
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.005261898040771484,
+        "total_execution_time": 1.3781359195709229,
+        "latency": 4.1484832763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0038175582885742188,
+        "total_execution_time": 1.370574951171875,
+        "latency": 4.1484832763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.006096839904785156,
+        "total_execution_time": 1.3752031326293945,
+        "latency": 4.863739013671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0008304119110107422,
+        "total_execution_time": 1.378938913345337,
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.006123781204223633,
+        "total_execution_time": 1.3714940547943115,
+        "latency": 5.2928924560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.007058382034301758,
+        "total_execution_time": 1.380504846572876,
+        "latency": 6.270408630371094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.003885507583618164,
+        "total_execution_time": 1.387378454208374,
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0084686279296875,
+        "total_execution_time": 1.3787858486175537,
+        "latency": 3.695487976074219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0032567977905273438,
+        "total_execution_time": 1.382070779800415,
+        "latency": 3.814697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0010039806365966797,
+        "total_execution_time": 1.3975331783294678,
+        "latency": 6.341934204101562e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.0007395744323730469,
+        "total_execution_time": 1.3928720951080322,
+        "latency": 3.7670135498046875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:28",
+        "model_execution_time": 0.00104522705078125,
+        "total_execution_time": 1.431093692779541,
+        "latency": 5.245208740234375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:29",
+        "model_execution_time": 0.0008740425109863281,
+        "total_execution_time": 2.1880245208740234,
+        "latency": 5.221366882324219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0009133815765380859,
+        "total_execution_time": 1.3074545860290527,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0012743473052978516,
+        "total_execution_time": 1.3445768356323242,
+        "latency": 5.626678466796875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0026755332946777344,
+        "total_execution_time": 1.3544061183929443,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0015141963958740234,
+        "total_execution_time": 1.363365888595581,
+        "latency": 0.0014848709106445312
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0013608932495117188,
+        "total_execution_time": 1.3734006881713867,
+        "latency": 6.127357482910156e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0009937286376953125,
+        "total_execution_time": 1.4034111499786377,
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.002559185028076172,
+        "total_execution_time": 1.3980326652526855,
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0006706714630126953,
+        "total_execution_time": 1.403468132019043,
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0011088848114013672,
+        "total_execution_time": 1.3974058628082275,
+        "latency": 3.910064697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0018084049224853516,
+        "total_execution_time": 1.399261236190796,
+        "latency": 3.7670135498046875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0005500316619873047,
+        "total_execution_time": 1.4141902923583984,
+        "latency": 5.936622619628906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.001421213150024414,
+        "total_execution_time": 1.4013490676879883,
+        "latency": 5.245208740234375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0009281635284423828,
+        "total_execution_time": 1.396167516708374,
+        "latency": 4.7206878662109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0033864974975585938,
+        "total_execution_time": 1.4014041423797607,
+        "latency": 3.600120544433594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0024573802947998047,
+        "total_execution_time": 1.4014992713928223,
+        "latency": 4.00543212890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0006220340728759766,
+        "total_execution_time": 1.402226209640503,
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0012483596801757812,
+        "total_execution_time": 1.4107551574707031,
+        "latency": 4.029273986816406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.002687215805053711,
+        "total_execution_time": 1.4188742637634277,
+        "latency": 6.365776062011719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0006320476531982422,
+        "total_execution_time": 1.4146993160247803,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:30",
+        "model_execution_time": 0.0011355876922607422,
+        "total_execution_time": 1.4237449169158936,
+        "latency": 4.8160552978515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.005171298980712891,
+        "total_execution_time": 1.301316261291504,
+        "latency": 4.673004150390625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0037529468536376953,
+        "total_execution_time": 1.2891788482666016,
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.009426116943359375,
+        "total_execution_time": 1.3177986145019531,
+        "latency": 0.0001430511474609375
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.004637718200683594,
+        "total_execution_time": 1.3118095397949219,
+        "latency": 4.601478576660156e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0034224987030029297,
+        "total_execution_time": 1.2983307838439941,
+        "latency": 5.078315734863281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.006455183029174805,
+        "total_execution_time": 1.3104748725891113,
+        "latency": 8.153915405273438e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.007241725921630859,
+        "total_execution_time": 1.3169302940368652,
+        "latency": 5.793571472167969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0007712841033935547,
+        "total_execution_time": 1.3093807697296143,
+        "latency": 6.413459777832031e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0013327598571777344,
+        "total_execution_time": 1.3097624778747559,
+        "latency": 4.1484832763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.00107574462890625,
+        "total_execution_time": 1.3184659481048584,
+        "latency": 4.744529724121094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0017938613891601562,
+        "total_execution_time": 1.3410403728485107,
+        "latency": 0.0017676353454589844
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0006296634674072266,
+        "total_execution_time": 1.3319690227508545,
+        "latency": 5.340576171875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.000720977783203125,
+        "total_execution_time": 1.3310608863830566,
+        "latency": 5.054473876953125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0005424022674560547,
+        "total_execution_time": 1.3386998176574707,
+        "latency": 6.628036499023438e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0008280277252197266,
+        "total_execution_time": 1.364872694015503,
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0008065700531005859,
+        "total_execution_time": 1.352724313735962,
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0006577968597412109,
+        "total_execution_time": 1.3646790981292725,
+        "latency": 5.340576171875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0007481575012207031,
+        "total_execution_time": 1.3701331615447998,
+        "latency": 8.869171142578125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:31",
+        "model_execution_time": 0.0006494522094726562,
+        "total_execution_time": 1.3813235759735107,
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:32",
+        "model_execution_time": 0.0005688667297363281,
+        "total_execution_time": 1.368307113647461,
+        "latency": 5.2928924560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.007222414016723633,
+        "total_execution_time": 1.3390045166015625,
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.004998207092285156,
+        "total_execution_time": 1.3399412631988525,
+        "latency": 5.841255187988281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.004624366760253906,
+        "total_execution_time": 1.3386995792388916,
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.010091304779052734,
+        "total_execution_time": 1.3471755981445312,
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.004839181900024414,
+        "total_execution_time": 1.3449697494506836,
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.010088443756103516,
+        "total_execution_time": 1.3597168922424316,
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.006963253021240234,
+        "total_execution_time": 1.3508551120758057,
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0009179115295410156,
+        "total_execution_time": 1.3764848709106445,
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0011141300201416016,
+        "total_execution_time": 1.4025964736938477,
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0015916824340820312,
+        "total_execution_time": 1.5302000045776367,
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0017673969268798828,
+        "total_execution_time": 1.529712438583374,
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0018949508666992188,
+        "total_execution_time": 1.5461609363555908,
+        "latency": 4.792213439941406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0027599334716796875,
+        "total_execution_time": 1.5627782344818115,
+        "latency": 0.001222848892211914
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0019295215606689453,
+        "total_execution_time": 1.5496304035186768,
+        "latency": 3.981590270996094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.001514434814453125,
+        "total_execution_time": 1.5611095428466797,
+        "latency": 3.8623809814453125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0027916431427001953,
+        "total_execution_time": 1.5715551376342773,
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0033893585205078125,
+        "total_execution_time": 1.565509557723999,
+        "latency": 4.935264587402344e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.0019316673278808594,
+        "total_execution_time": 1.5649628639221191,
+        "latency": 4.00543212890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.003673076629638672,
+        "total_execution_time": 1.5773351192474365,
+        "latency": 4.5299530029296875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:33",
+        "model_execution_time": 0.004418611526489258,
+        "total_execution_time": 1.5650537014007568,
+        "latency": 3.933906555175781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0008599758148193359,
+        "total_execution_time": 1.2778620719909668,
+        "latency": 8.416175842285156e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0008111000061035156,
+        "total_execution_time": 1.2796392440795898,
+        "latency": 0.00010037422180175781
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0019991397857666016,
+        "total_execution_time": 1.2841887474060059,
+        "latency": 7.82012939453125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0006802082061767578,
+        "total_execution_time": 1.2944631576538086,
+        "latency": 8.130073547363281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0006477832794189453,
+        "total_execution_time": 1.3059523105621338,
+        "latency": 8.225440979003906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.002030611038208008,
+        "total_execution_time": 1.286736249923706,
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0015149116516113281,
+        "total_execution_time": 1.3070731163024902,
+        "latency": 7.891654968261719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.004526853561401367,
+        "total_execution_time": 1.3235068321228027,
+        "latency": 8.0108642578125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.004950761795043945,
+        "total_execution_time": 1.3303251266479492,
+        "latency": 5.2928924560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0016930103302001953,
+        "total_execution_time": 1.3607287406921387,
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.002568960189819336,
+        "total_execution_time": 1.3562254905700684,
+        "latency": 9.846687316894531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0060272216796875,
+        "total_execution_time": 1.3597543239593506,
+        "latency": 6.747245788574219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.007932186126708984,
+        "total_execution_time": 1.358675241470337,
+        "latency": 7.510185241699219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.006319761276245117,
+        "total_execution_time": 1.3786420822143555,
+        "latency": 8.559226989746094e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0039370059967041016,
+        "total_execution_time": 1.3538165092468262,
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.0023772716522216797,
+        "total_execution_time": 1.3610529899597168,
+        "latency": 7.534027099609375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:34",
+        "model_execution_time": 0.004412412643432617,
+        "total_execution_time": 1.368865966796875,
+        "latency": 7.009506225585938e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:35",
+        "model_execution_time": 0.0034432411193847656,
+        "total_execution_time": 1.3801004886627197,
+        "latency": 0.00010371208190917969
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:35",
+        "model_execution_time": 0.002905607223510742,
+        "total_execution_time": 1.4083969593048096,
+        "latency": 0.00010323524475097656
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:35",
+        "model_execution_time": 0.0026984214782714844,
+        "total_execution_time": 1.3956029415130615,
+        "latency": 6.031990051269531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.00110626220703125,
+        "total_execution_time": 1.2676057815551758,
+        "latency": 6.914138793945312e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0023627281188964844,
+        "total_execution_time": 1.2802634239196777,
+        "latency": 0.00013399124145507812
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0012693405151367188,
+        "total_execution_time": 1.2787652015686035,
+        "latency": 6.031990051269531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0009489059448242188,
+        "total_execution_time": 1.281367540359497,
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0007958412170410156,
+        "total_execution_time": 1.2887787818908691,
+        "latency": 5.9604644775390625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0006711483001708984,
+        "total_execution_time": 1.3004252910614014,
+        "latency": 8.463859558105469e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0021190643310546875,
+        "total_execution_time": 1.2946858406066895,
+        "latency": 4.458427429199219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0006172657012939453,
+        "total_execution_time": 1.2941670417785645,
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0016562938690185547,
+        "total_execution_time": 1.3021728992462158,
+        "latency": 6.175041198730469e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0007340908050537109,
+        "total_execution_time": 1.3258259296417236,
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0017788410186767578,
+        "total_execution_time": 1.3408026695251465,
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0012469291687011719,
+        "total_execution_time": 1.3472964763641357,
+        "latency": 5.626678466796875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.004255056381225586,
+        "total_execution_time": 1.3870055675506592,
+        "latency": 6.914138793945312e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0030906200408935547,
+        "total_execution_time": 1.3847999572753906,
+        "latency": 4.506111145019531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.002851247787475586,
+        "total_execution_time": 1.3756029605865479,
+        "latency": 4.9591064453125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.006264686584472656,
+        "total_execution_time": 1.383657455444336,
+        "latency": 5.984306335449219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0010533332824707031,
+        "total_execution_time": 1.3801205158233643,
+        "latency": 4.76837158203125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0005669593811035156,
+        "total_execution_time": 1.3932454586029053,
+        "latency": 5.841255187988281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0007421970367431641,
+        "total_execution_time": 1.416968584060669,
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:36",
+        "model_execution_time": 0.0007047653198242188,
+        "total_execution_time": 1.4099650382995605,
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0009169578552246094,
+        "total_execution_time": 1.2734830379486084,
+        "latency": 5.984306335449219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0010128021240234375,
+        "total_execution_time": 1.287999153137207,
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0007796287536621094,
+        "total_execution_time": 1.3106598854064941,
+        "latency": 6.604194641113281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0008544921875,
+        "total_execution_time": 1.3274447917938232,
+        "latency": 0.00010061264038085938
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0011928081512451172,
+        "total_execution_time": 1.3204567432403564,
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0019109249114990234,
+        "total_execution_time": 1.3353393077850342,
+        "latency": 7.05718994140625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0009000301361083984,
+        "total_execution_time": 1.3429479598999023,
+        "latency": 3.910064697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0008883476257324219,
+        "total_execution_time": 1.3752553462982178,
+        "latency": 4.3392181396484375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0045964717864990234,
+        "total_execution_time": 1.383598804473877,
+        "latency": 5.745887756347656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0032951831817626953,
+        "total_execution_time": 1.3901238441467285,
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.004531383514404297,
+        "total_execution_time": 1.381667137145996,
+        "latency": 5.888938903808594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.004799365997314453,
+        "total_execution_time": 1.3943912982940674,
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.004472494125366211,
+        "total_execution_time": 1.389277696609497,
+        "latency": 7.128715515136719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0027196407318115234,
+        "total_execution_time": 1.3833167552947998,
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.003500699996948242,
+        "total_execution_time": 1.3874270915985107,
+        "latency": 7.200241088867188e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.001986265182495117,
+        "total_execution_time": 1.4167530536651611,
+        "latency": 5.793571472167969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0031626224517822266,
+        "total_execution_time": 1.4179260730743408,
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.005635499954223633,
+        "total_execution_time": 1.428084135055542,
+        "latency": 6.008148193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.004068613052368164,
+        "total_execution_time": 1.433964490890503,
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:37",
+        "model_execution_time": 0.0007007122039794922,
+        "total_execution_time": 1.4453821182250977,
+        "latency": 3.933906555175781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0008912086486816406,
+        "total_execution_time": 1.2832131385803223,
+        "latency": 0.00010085105895996094
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.001026153564453125,
+        "total_execution_time": 1.2995002269744873,
+        "latency": 6.580352783203125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.002924203872680664,
+        "total_execution_time": 1.3258228302001953,
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0029611587524414062,
+        "total_execution_time": 1.3257067203521729,
+        "latency": 5.984306335449219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.002519845962524414,
+        "total_execution_time": 1.3370721340179443,
+        "latency": 7.104873657226562e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0019986629486083984,
+        "total_execution_time": 1.3364264965057373,
+        "latency": 5.817413330078125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0019903182983398438,
+        "total_execution_time": 1.336822271347046,
+        "latency": 8.440017700195312e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.001447439193725586,
+        "total_execution_time": 1.3181819915771484,
+        "latency": 9.799003601074219e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.001435995101928711,
+        "total_execution_time": 1.330676794052124,
+        "latency": 5.6743621826171875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0006144046783447266,
+        "total_execution_time": 1.3163948059082031,
+        "latency": 0.00010013580322265625
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.001329183578491211,
+        "total_execution_time": 1.3514313697814941,
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0008881092071533203,
+        "total_execution_time": 1.351647138595581,
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0008265972137451172,
+        "total_execution_time": 1.3938472270965576,
+        "latency": 6.4849853515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0008590221405029297,
+        "total_execution_time": 1.3878462314605713,
+        "latency": 5.078315734863281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0008754730224609375,
+        "total_execution_time": 1.3995506763458252,
+        "latency": 5.054473876953125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0006635189056396484,
+        "total_execution_time": 1.394528865814209,
+        "latency": 8.034706115722656e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0025756359100341797,
+        "total_execution_time": 1.4225409030914307,
+        "latency": 7.05718994140625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0006144046783447266,
+        "total_execution_time": 1.4369020462036133,
+        "latency": 0.000736236572265625
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0010273456573486328,
+        "total_execution_time": 1.4309628009796143,
+        "latency": 8.654594421386719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:39",
+        "model_execution_time": 0.0006575584411621094,
+        "total_execution_time": 1.4464054107666016,
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0009620189666748047,
+        "total_execution_time": 1.255035638809204,
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0009210109710693359,
+        "total_execution_time": 1.305849552154541,
+        "latency": 4.601478576660156e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.005156755447387695,
+        "total_execution_time": 1.3142404556274414,
+        "latency": 5.6743621826171875e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.007761478424072266,
+        "total_execution_time": 1.3203840255737305,
+        "latency": 4.553794860839844e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.007523775100708008,
+        "total_execution_time": 1.3167331218719482,
+        "latency": 5.841255187988281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0023508071899414062,
+        "total_execution_time": 1.3242168426513672,
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.002057313919067383,
+        "total_execution_time": 1.3275938034057617,
+        "latency": 5.888938903808594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.006253480911254883,
+        "total_execution_time": 1.337456226348877,
+        "latency": 4.9591064453125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0008203983306884766,
+        "total_execution_time": 1.3483996391296387,
+        "latency": 0.0005152225494384766
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0008635520935058594,
+        "total_execution_time": 1.3336355686187744,
+        "latency": 6.031990051269531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0009655952453613281,
+        "total_execution_time": 1.3569276332855225,
+        "latency": 7.081031799316406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0018734931945800781,
+        "total_execution_time": 1.3535475730895996,
+        "latency": 8.654594421386719e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0011854171752929688,
+        "total_execution_time": 1.367490291595459,
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.001207590103149414,
+        "total_execution_time": 1.4055688381195068,
+        "latency": 5.125999450683594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0011188983917236328,
+        "total_execution_time": 1.4061074256896973,
+        "latency": 7.605552673339844e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0013995170593261719,
+        "total_execution_time": 1.3930580615997314,
+        "latency": 5.14984130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0014770030975341797,
+        "total_execution_time": 1.3968074321746826,
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.002576112747192383,
+        "total_execution_time": 1.4128789901733398,
+        "latency": 8.082389831542969e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.002456188201904297,
+        "total_execution_time": 1.4025170803070068,
+        "latency": 5.054473876953125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:40",
+        "model_execution_time": 0.0013637542724609375,
+        "total_execution_time": 1.4207637310028076,
+        "latency": 6.437301635742188e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0009479522705078125,
+        "total_execution_time": 1.2975795269012451,
+        "latency": 5.14984130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0023593902587890625,
+        "total_execution_time": 1.2960388660430908,
+        "latency": 4.792213439941406e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0037267208099365234,
+        "total_execution_time": 1.2968082427978516,
+        "latency": 6.031990051269531e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.004777193069458008,
+        "total_execution_time": 1.3031580448150635,
+        "latency": 6.4849853515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0022706985473632812,
+        "total_execution_time": 1.2946577072143555,
+        "latency": 4.8160552978515625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0012242794036865234,
+        "total_execution_time": 1.3058812618255615,
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0011622905731201172,
+        "total_execution_time": 1.3628239631652832,
+        "latency": 7.581710815429688e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0010104179382324219,
+        "total_execution_time": 1.3588230609893799,
+        "latency": 4.553794860839844e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0015518665313720703,
+        "total_execution_time": 1.3558475971221924,
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0013523101806640625,
+        "total_execution_time": 1.3455798625946045,
+        "latency": 6.127357482910156e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0006690025329589844,
+        "total_execution_time": 1.3463599681854248,
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0007216930389404297,
+        "total_execution_time": 1.3538691997528076,
+        "latency": 4.00543212890625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0011141300201416016,
+        "total_execution_time": 1.3640239238739014,
+        "latency": 5.125999450683594e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.001995086669921875,
+        "total_execution_time": 1.3794658184051514,
+        "latency": 6.008148193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0015399456024169922,
+        "total_execution_time": 1.38262939453125,
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0024309158325195312,
+        "total_execution_time": 1.410304307937622,
+        "latency": 8.511543273925781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0022749900817871094,
+        "total_execution_time": 1.3862090110778809,
+        "latency": 3.8623809814453125e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0011343955993652344,
+        "total_execution_time": 1.409151315689087,
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0015311241149902344,
+        "total_execution_time": 1.4095642566680908,
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2026-05-07 13:06:42",
+        "model_execution_time": 0.0014264583587646484,
+        "total_execution_time": 1.436774492263794,
+        "latency": 4.220008850097656e-05
+    }
+]

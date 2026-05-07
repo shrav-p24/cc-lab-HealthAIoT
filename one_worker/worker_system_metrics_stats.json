@@ -1,0 +1,5202 @@
+[
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.340576171875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.982948303222656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.744529724121094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 0.00039505958557128906
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.1961669921875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.9114227294921875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.626678466796875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.673004150390625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.316734313964844e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.458427429199219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 7.104873657226562e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.269050598144531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.981590270996094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 7.843971252441406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.555152893066406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.555152893066406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.602836608886719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.793571472167969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.506111145019531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 6.866455078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.507469177246094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.601478576660156e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 6.580352783203125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.0067901611328125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 0.00024390220642089844
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 6.222724914550781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.054473876953125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.5299530029296875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.029273986816406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.790855407714844e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.814697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 7.43865966796875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.2928924560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.600120544433594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.910064697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 0.0009975433349609375
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 6.914138793945312e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 0.0006723403930664062
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 0.0004661083221435547
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.3392181396484375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 6.175041198730469e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 7.653236389160156e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.8160552978515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.7206878662109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.38690185546875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.817413330078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 6.008148193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 7.390975952148438e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.506111145019531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.553794860839844e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.792213439941406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.600120544433594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 7.486343383789062e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.0067901611328125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.14984130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.4836273193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.9591064453125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.1021575927734375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.173683166503906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 5.340576171875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 6.461143493652344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 3.8623809814453125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.00543212890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.744529724121094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 0.0018367767333984375
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 0.0013794898986816406
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 1.0,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2026-05-07 07:36:07"
+        },
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.1961669921875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.863739013671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.125999450683594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.4849853515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.029273986816406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.318092346191406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.4836273193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.76837158203125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.6253204345703125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.00016164779663085938
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.5789947509765625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.273124694824219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.887580871582031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.0001399517059326172
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.4836273193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.0004425048828125
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.604194641113281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.7697296142578125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.936622619628906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.392333984375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.650520324707031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.389617919921875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 7.772445678710938e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.153915405273438e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.723403930664062e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.29425048828125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.413459777832031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 9.34600830078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.130073547363281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.00011467933654785156
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.749961853027344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.20159912109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 7.891654968261719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.793571472167969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.745887756347656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.5299530029296875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.270408630371094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.14984130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.792213439941406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.100799560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.863739013671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.173683166503906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.76837158203125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.458427429199219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.673004150390625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.1484832763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.96453857421875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.198883056640625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.412101745605469e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.602836608886719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 7.081031799316406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.29425048828125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 7.152557373046875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.602836608886719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.507469177246094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 9.250640869140625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 3.743171691894531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.029273986816406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.0024085044860839844
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 7.200241088867188e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.269050598144531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.269050598144531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.559226989746094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.413459777832031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.000102996826171875
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.00039505958557128906
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.100799560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.984306335449219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.580352783203125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.698204040527344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.413459777832031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.6253204345703125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.0558319091796875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.7206878662109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 7.62939453125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.221366882324219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.100799560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.649162292480469e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.0011646747589111328
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.0001823902130126953
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 3.743171691894531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.270408630371094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 3.695487976074219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.2928924560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 3.814697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.863739013671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.1484832763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.1484832763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.341934204101562e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 3.7670135498046875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.245208740234375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.221366882324219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.0014848709106445312
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.127357482910156e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.626678466796875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.124641418457031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 3.7670135498046875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 3.910064697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.245208740234375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.936622619628906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.7206878662109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.365776062011719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 3.600120544433594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.00543212890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.029273986816406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.8160552978515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.793571472167969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.673004150390625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.0001430511474609375
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.153915405273438e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.601478576660156e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.078315734863281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 0.0017676353454589844
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.413459777832031e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.1484832763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.744529724121094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.054473876953125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.340576171875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.340576171875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 6.628036499023438e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 8.869171142578125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.8,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.15,
+                "send_bandwidth_mbps": 0.29
+            },
+            "timestamp": "2026-05-07 07:36:19"
+        },
+        "latency": 5.2928924560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.220008850097656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.841255187988281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.267692565917969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.172325134277344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.981590270996094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.001222848892211914
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.792213439941406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.00543212890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.5299530029296875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.933906555175781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.8623809814453125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.076957702636719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.935264587402344e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.416175842285156e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.00010037422180175781
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.130073547363281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.82012939453125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.225440979003906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.891654968261719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.2928924560546875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.0108642578125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 9.846687316894531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.510185241699219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.559226989746094e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.747245788574219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.00010371208190917969
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.009506225585938e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.00010323524475097656
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.031990051269531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.534027099609375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.00013399124145507812
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.914138793945312e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.463859558105469e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.031990051269531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.9604644775390625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.458427429199219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.175041198730469e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.2438507080078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.626678466796875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.914138793945312e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.984306335449219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.506111145019531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.9591064453125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.841255187988281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.76837158203125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.57763671875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.984306335449219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.4345855712890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.00010061264038085938
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.05718994140625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.604194641113281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.910064697265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.3392181396484375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.291534423828125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.745887756347656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.888938903808594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.128715515136719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.200241088867188e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.793571472167969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.008148193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.933906555175781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.030632019042969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.00010085105895996094
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.580352783203125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.984306335449219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.440017700195312e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.104873657226562e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.817413330078125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 9.799003601074219e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.363059997558594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.6743621826171875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.00010013580322265625
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.7220458984375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.078315734863281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.034706115722656e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.4849853515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.054473876953125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.654594421386719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.05718994140625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.53131103515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.000736236572265625
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.839897155761719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.601478576660156e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.9591064453125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.553794860839844e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.6743621826171875e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.841255187988281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.888938903808594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.031990051269531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 0.0005152225494384766
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.081031799316406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.315376281738281e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.605552673339844e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.654594421386719e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.14984130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.125999450683594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.082389831542969e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.437301635742188e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.054473876953125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.14984130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.4849853515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.031990051269531e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.792213439941406e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.8160552978515625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 7.581710815429688e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.553794860839844e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.127357482910156e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.410743713378906e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.00543212890625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.482269287109375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 5.125999450683594e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 8.511543273925781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.8623809814453125e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 6.008148193359375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 3.9577484130859375e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.0531158447265625e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.696846008300781e-05
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 86.9,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.18,
+                "send_bandwidth_mbps": 0.3
+            },
+            "timestamp": "2026-05-07 07:36:31"
+        },
+        "latency": 4.220008850097656e-05
+    }
+]

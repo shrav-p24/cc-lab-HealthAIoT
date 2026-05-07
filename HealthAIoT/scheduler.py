@@ -23,7 +23,7 @@ scaler_path = base_dir / 'worker/scaler.pkl'
 
 
 app = Flask(__name__)
-WORKER_IPS = [ '13.51.160.141', '13.60.38.208']
+WORKER_IPS = []
 WORKER_PORT = 5000
 OPTIMAL_SCHEDULER_MODEL = 'vm_selector_model.pth'
 SCHEDULER_SCALER = 'scheduler_scaler.pkl'
@@ -77,8 +77,11 @@ def get_optimal_worker(latency=None):
     # fetch system metric for all the workers and save as an ordered list
     stats_list = [fetch_worker_stats(vm_ip) for vm_ip in WORKER_IPS]
     if None not in stats_list:
-        combined_stats = combine_worker_stats(stats_list)  # call function to combine statistics of both workers
-        optimal_worker_index = predict_optimal_worker(combined_stats)  # predict oprimal VM based on stats
+        if len(WORKER_IPS) == 1:
+            optimal_worker_index = 0
+        else:
+            combined_stats = combine_worker_stats(stats_list)  # call function to combine statistics of both workers
+            optimal_worker_index = predict_optimal_worker(combined_stats)  # predict optimal VM based on stats
         optimal_worker = WORKER_IPS[optimal_worker_index]  # fetch optimal worker IP
         optimal_worker_stats = fetch_worker_stats(optimal_worker)  # fetch and save optimal worker metric stats
         if optimal_worker_stats:
