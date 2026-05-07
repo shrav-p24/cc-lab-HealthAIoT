@@ -23,7 +23,7 @@ scaler_path = base_dir / 'worker/scaler.pkl'
 
 
 app = Flask(__name__)
-WORKER_IPS = [ '51.20.4.11', '13.49.68.86']
+WORKER_IPS = [ '13.51.160.141', '13.60.38.208']
 WORKER_PORT = 5000
 OPTIMAL_SCHEDULER_MODEL = 'vm_selector_model.pth'
 SCHEDULER_SCALER = 'scheduler_scaler.pkl'
@@ -72,7 +72,7 @@ def predict_optimal_worker(combined_stats):
     return y_pred
 
 # combine combine_worker_stats and predict_optimal_worker functions and fetch the optimal VM stats
-def get_optimal_worker():
+def get_optimal_worker(latency=None):
 
     # fetch system metric for all the workers and save as an ordered list
     stats_list = [fetch_worker_stats(vm_ip) for vm_ip in WORKER_IPS]
@@ -82,13 +82,13 @@ def get_optimal_worker():
         optimal_worker = WORKER_IPS[optimal_worker_index]  # fetch optimal worker IP
         optimal_worker_stats = fetch_worker_stats(optimal_worker)  # fetch and save optimal worker metric stats
         if optimal_worker_stats:
-            save_optimal_worker_stats(f'worker_{optimal_worker_index + 1}', optimal_worker_stats) # save metric stats in json
+            save_optimal_worker_stats(f'worker_{optimal_worker_index + 1}', optimal_worker_stats, latency) # save metric stats in json
         return WORKER_IPS[optimal_worker_index], optimal_worker_index + 1
     return WORKER_IPS[0],1  # return first VM as optimal if the model fails to predict the optimal one
 
 # transfer user data on the selected optimal VM or to next available VM in case of any exception
-def get_worker(features):
-    optimal_worker, vm_index = get_optimal_worker() 
+def get_worker(features, latency=None):
+    optimal_worker, vm_index = get_optimal_worker(latency) 
     for _ in range(len(WORKER_IPS)): # loop for definite number of tries in case of failed attempt
         try:
             url = f'http://{optimal_worker}:{WORKER_PORT}/predict' # send diabetes predction request to the optimal worker
@@ -104,31 +104,36 @@ def get_worker(features):
             print(f"Connecting to other Worker: {optimal_worker}")
             vm_stats = fetch_worker_stats(optimal_worker) # fetch worker system metric statistics
             if vm_stats:
-                save_optimal_worker_stats(f'worker_{next_vm_index + 1}', vm_stats)  # save the metric stats in json
+                save_optimal_worker_stats(f'worker_{next_vm_index + 1}', vm_stats, latency)  # save the metric stats in json
     print("No Response from Worker")
     return None, None
 
 
-def save_optimal_worker_stats(system, stats):
+def save_optimal_worker_stats(system, stats, latency=None):
     file = 'worker_system_metric_stats.json'
     with file_lock:
         system_metric = []
         if os.path.exists(file):  # load stats file if it exists
             with open(file, 'r') as f:
                 system_metric = json.load(f)
-        system_metric.append({
+                
+        entry = {
             'system': system,
             'stats': stats
-        })  # appending new stats
+        }
+        if latency is not None:
+            entry['latency'] = latency
+            
+        system_metric.append(entry)  # appending new stats
 
         with open(file, 'w') as f:
             json.dump(system_metric, f, indent=4)
         print(f"All System stats updated in {file}")
 
 # save system stats from broker
-def save_broker_stats():
+def save_broker_stats(latency=None):
     broker_stats = gather_broker_stats()
-    save_optimal_worker_stats('broker', broker_stats)
+    save_optimal_worker_stats('broker', broker_stats, latency)
 
 #save temporal stats of the optimal VM
 def save_temporal_stats(system, model_execution_time, total_execution_time, latency):
@@ -250,7 +255,7 @@ def index():
             latency = time.time() - start_time
             try:
                 # transfer user data to selected optimal VM or to next available VM in case of any exception
-                prediction, vm_index = get_worker(features)
+                prediction, vm_index = get_worker(features, latency)
                 if prediction:
                     if prediction['prediction'] == 0:
                         result_message = "Your results show no significant risk for diabetes."
@@ -281,7 +286,7 @@ def index():
                 threading.Thread(target=save_temporal_stats,
                                  args=('broker', model_execution_time, total_execution_time, latency),
                                  daemon=True).start()
-                threading.Thread(target=save_broker_stats, daemon=True).start()
+                threading.Thread(target=save_broker_stats, args=(latency,), daemon=True).start()
 
             if request.is_json:
                 from flask import jsonify
